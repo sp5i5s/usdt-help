@@ -3,8 +3,6 @@
   "author": "sp5i5s",
   "language": "zh",
   "plugins": [
-    "-sharing",
-    "-fontsettings",
     "theme-api"
   ],
   "pluginsConfig": {
