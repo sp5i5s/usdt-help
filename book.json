@@ -1,19 +1,14 @@
 {
-    "title": "UPay Api",
-    "author": "sp5i5s",
-    "language": "zh",
     "structure": {
       "readme": "README.md",
       "summary": "SUMMARY.md"
     },
     "languages": {
-      "en": {
-        "name": "English",
-        "url": "en/README.md"
-      },
       "zh": {
-        "name": "中文",
-        "url": "zh/README.md"
+        "summary": "zh/SUMMARY.md"
+      },
+      "en": {
+        "summary": "en/SUMMARY.md"
       }
     }
   }
