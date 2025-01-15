@@ -1,0 +1,14 @@
+{
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md"
+    },
+    "languages": {
+      "zh": {
+        "summary": "zh/SUMMARY.md"
+      },
+      "en": {
+        "summary": "en/SUMMARY.md"
+      }
+    }
+  }
