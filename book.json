@@ -2,7 +2,10 @@
     "title": "UPay Api",
     "author": "sp5i5s",
     "language": "zh",
-    "plugins": ["-sharing", "-fontsettings"],
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md"
+    },
     "languages": {
       "en": {
         "name": "English",
