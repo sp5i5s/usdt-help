@@ -1,0 +1,25 @@
+{
+    "title": "UPay Api",
+    "author": "sp5i5s",
+    "language": "zh",
+    "plugins": ["-sharing", "-fontsettings"],
+    "pluginsConfig": {
+      "theme-default": {
+        "showDepth": 2
+      }
+    },
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md"
+    },
+    "languages": {
+      "en": {
+        "name": "English",
+        "url": "en/README.md"
+      },
+      "zh": {
+        "name": "中文",
+        "url": "zh/README.md"
+      }
+    }
+  }
