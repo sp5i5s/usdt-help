@@ -1,7 +1,7 @@
 
 # 💡介绍
 
-本Dev文阅读对象：使用 UPay 收款系统的技术架构师、研发工程师、系统运维工程师。通过本文档，商户可了解 UPay 接入的技术、接入的产品业务、流程、接入规范等信息，以便于商户顺利完成接入工作。
+本文阅读对象：使用 UPay 收款系统的技术架构师、研发工程师、系统运维工程师。通过本文档，商户可了解 UPay 接入的技术、接入的产品业务、流程、接入规范等信息，以便于商户顺利完成接入工作。
 
 ![](https://docs.upay.ink/~gitbook/image?url=https%3A%2F%2F4108688087-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F1pnDJjcXI5yAsWksoEAL%252Fuploads%252FIDVe9w2NP9ID7rRo9EtR%252Fupay.ink.png%3Falt%3Dmedia%26token%3Db9c3b3cc-03d6-4c2c-b04a-37bd09f6697d&width=768&dpr=4&quality=100&sign=f295ee46&sv=2)
 
