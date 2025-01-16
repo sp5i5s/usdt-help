@@ -18,11 +18,9 @@ UPay 是专业的 USDT / PYUSD 支付平台，为商户提供简单易用、安�
 ## 在开始接入之前，你需要：
 
 
-1. 注册并登录 [**商户后台**](http://upay.ac/index.html/#/login)（如需测试请注册并登录 [**测试商户后台**](https://test.upay.ink/#/user/login)）**；**
+1. 注册并登录 [**商户后台**](http://upay.ac/index.html#/login)
 2. 在商户后台查看接入必需的 **appId** 和 **appSecret；**
 3. 阅读我们有关 **安全说明** 及 **签名算法** 相关的说明；
-4. 然后你可以阅读后续文档，并尝试通过接口发起 [**提交订单**](/api/cn/order/submit-order) 请求。
+4. 然后你可以阅读后续文档，并尝试通过接口发起 [**提交订单**](order/submit-order) 请求。
 
 如你在接入过程中遇到任何问题，可随时联系在线客服和我们取得联系。
-
-[**技术支持**](https://t.me/UPay_ink)
