@@ -15,9 +15,3 @@
 * [订单异步通知](order/order-sync-notice.md)
 * [手动补单](order/repair-order.md)
 * [收银台](order/checkout.md)
-
-## 其他
-
-* [UPlay使用文档](basics/editor.md)
-* [收款演示](basics/markdown.md)
-* [技术支持](basics/images-and-media.md)
