@@ -3,7 +3,7 @@
 
 > 该接口供商户主动查询订单信息。
 
-**请求地址：**/v1/order/search
+**请求地址：**/v1/orders/search
 
 **请求方式：**POST
 

@@ -2,7 +2,7 @@
 
 > 该接口供商户主动查询订单信息。
 
-**请求地址：**/v1/order/queryall
+**请求地址：**/v1/orders/queryall
 
 \*\*请求方式：\*\*POST
 
